@@ -1,5 +1,5 @@
 
-# install Ollama
+# install Ollama --> https://ollama.ai/download/linux
 ```
 curl https://ollama.ai/install.sh | sh
 ```
