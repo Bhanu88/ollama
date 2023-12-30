@@ -7,6 +7,11 @@ curl https://ollama.ai/install.sh | sh
 ```
 ollama run mistral
 ```
+# install gradio 
+
+```
+pip install gradio
+```
 #run code 
 ```
 python main.py
