@@ -3,7 +3,7 @@
 ```
 curl https://ollama.ai/install.sh | sh
 ```
-# install Mistral
+# install Mistral --> https://ollama.ai/library/mistral
 ```
 ollama run mistral
 ```
