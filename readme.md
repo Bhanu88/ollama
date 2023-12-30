@@ -1,9 +1,9 @@
-#install instructions
-#install Ollama
+## install instructions
+# install Ollama
 ```
 curl https://ollama.ai/install.sh | sh
 ```
-#install Mistral
+# install Mistral
 ```
 ollama run mistral
 ```
@@ -12,12 +12,12 @@ ollama run mistral
 ```
 pip install gradio
 ```
-#run code 
+# Run code 
 ```
 python main.py
 ```
 
-#open the link 
+# open the link 
 ```
 http://127.0.0.1:7860/
 ```
